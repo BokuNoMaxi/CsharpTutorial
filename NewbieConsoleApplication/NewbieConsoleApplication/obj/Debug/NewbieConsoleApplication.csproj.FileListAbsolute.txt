@@ -1,0 +1,7 @@
+c:\users\markus\source\repos\NewbieConsoleApplication\NewbieConsoleApplication\bin\Debug\NewbieConsoleApplication.exe.config
+c:\users\markus\source\repos\NewbieConsoleApplication\NewbieConsoleApplication\bin\Debug\NewbieConsoleApplication.exe
+c:\users\markus\source\repos\NewbieConsoleApplication\NewbieConsoleApplication\bin\Debug\NewbieConsoleApplication.pdb
+c:\users\markus\source\repos\NewbieConsoleApplication\NewbieConsoleApplication\obj\Debug\NewbieConsoleApplication.csprojAssemblyReference.cache
+c:\users\markus\source\repos\NewbieConsoleApplication\NewbieConsoleApplication\obj\Debug\NewbieConsoleApplication.csproj.CoreCompileInputs.cache
+c:\users\markus\source\repos\NewbieConsoleApplication\NewbieConsoleApplication\obj\Debug\NewbieConsoleApplication.exe
+c:\users\markus\source\repos\NewbieConsoleApplication\NewbieConsoleApplication\obj\Debug\NewbieConsoleApplication.pdb

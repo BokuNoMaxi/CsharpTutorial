@@ -1,0 +1,7 @@
+c:\users\markus\source\repos\NewbieConsoleApplication\Rectangle\bin\Debug\Rectangle.exe.config
+c:\users\markus\source\repos\NewbieConsoleApplication\Rectangle\bin\Debug\Rectangle.exe
+c:\users\markus\source\repos\NewbieConsoleApplication\Rectangle\bin\Debug\Rectangle.pdb
+c:\users\markus\source\repos\NewbieConsoleApplication\Rectangle\obj\Debug\Rectangle.csproj.CoreCompileInputs.cache
+c:\users\markus\source\repos\NewbieConsoleApplication\Rectangle\obj\Debug\Rectangle.exe
+c:\users\markus\source\repos\NewbieConsoleApplication\Rectangle\obj\Debug\Rectangle.pdb
+c:\users\markus\source\repos\NewbieConsoleApplication\Rectangle\obj\Debug\Rectangle.csprojAssemblyReference.cache
