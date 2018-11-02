@@ -12,6 +12,15 @@ namespace Rectangle
         private double length;
         private double width;
 
+        public Rectangle()//Konstruktur
+        {
+            setDetails();
+        }
+        ~Rectangle()//Dekonstruktor
+        {
+            Console.WriteLine("Object zerstört");
+        }
+
         public void setDetails()
         {
             Console.WriteLine("Enter Length: ");
@@ -27,9 +36,9 @@ namespace Rectangle
 
         public void displayValues()
         {
-            Console.Write("Länge{0}:", length);
-            Console.Write("Breite{0}:", width);
-            Console.Write("Fläche{0}:", getFlaeche());
+            Console.WriteLine("Länge{0}:", length);
+            Console.WriteLine("Breite{0}:", width);
+            Console.WriteLine("Fläche{0}:", getFlaeche());
         }
     }
 }

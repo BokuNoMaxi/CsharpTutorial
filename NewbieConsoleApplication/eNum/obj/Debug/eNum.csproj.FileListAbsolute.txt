@@ -1,0 +1,7 @@
+C:\Users\Markus\source\repos\NewbieConsoleApplication\eNum\bin\Debug\eNum.exe.config
+C:\Users\Markus\source\repos\NewbieConsoleApplication\eNum\bin\Debug\eNum.exe
+C:\Users\Markus\source\repos\NewbieConsoleApplication\eNum\bin\Debug\eNum.pdb
+C:\Users\Markus\source\repos\NewbieConsoleApplication\eNum\obj\Debug\eNum.csprojAssemblyReference.cache
+C:\Users\Markus\source\repos\NewbieConsoleApplication\eNum\obj\Debug\eNum.csproj.CoreCompileInputs.cache
+C:\Users\Markus\source\repos\NewbieConsoleApplication\eNum\obj\Debug\eNum.exe
+C:\Users\Markus\source\repos\NewbieConsoleApplication\eNum\obj\Debug\eNum.pdb

@@ -12,7 +12,6 @@ namespace Rectangle
         static void Main(string[] args)
         {
             Rectangle R = new Rectangle();
-            R.setDetails();
             R.displayValues();
             Console.ReadLine();
         }

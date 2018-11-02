@@ -1,0 +1,7 @@
+C:\Users\Markus\source\repos\NewbieConsoleApplication\Structure\bin\Debug\Structure.exe.config
+C:\Users\Markus\source\repos\NewbieConsoleApplication\Structure\bin\Debug\Structure.exe
+C:\Users\Markus\source\repos\NewbieConsoleApplication\Structure\bin\Debug\Structure.pdb
+C:\Users\Markus\source\repos\NewbieConsoleApplication\Structure\obj\Debug\Structure.csprojAssemblyReference.cache
+C:\Users\Markus\source\repos\NewbieConsoleApplication\Structure\obj\Debug\Structure.csproj.CoreCompileInputs.cache
+C:\Users\Markus\source\repos\NewbieConsoleApplication\Structure\obj\Debug\Structure.exe
+C:\Users\Markus\source\repos\NewbieConsoleApplication\Structure\obj\Debug\Structure.pdb

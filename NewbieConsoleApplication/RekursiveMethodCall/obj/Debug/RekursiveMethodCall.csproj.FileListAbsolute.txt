@@ -1,0 +1,7 @@
+C:\Users\Markus\source\repos\NewbieConsoleApplication\RekursiveMethodCall\bin\Debug\RekursiveMethodCall.exe.config
+C:\Users\Markus\source\repos\NewbieConsoleApplication\RekursiveMethodCall\bin\Debug\RekursiveMethodCall.exe
+C:\Users\Markus\source\repos\NewbieConsoleApplication\RekursiveMethodCall\bin\Debug\RekursiveMethodCall.pdb
+C:\Users\Markus\source\repos\NewbieConsoleApplication\RekursiveMethodCall\obj\Debug\RekursiveMethodCall.csprojAssemblyReference.cache
+C:\Users\Markus\source\repos\NewbieConsoleApplication\RekursiveMethodCall\obj\Debug\RekursiveMethodCall.csproj.CoreCompileInputs.cache
+C:\Users\Markus\source\repos\NewbieConsoleApplication\RekursiveMethodCall\obj\Debug\RekursiveMethodCall.exe
+C:\Users\Markus\source\repos\NewbieConsoleApplication\RekursiveMethodCall\obj\Debug\RekursiveMethodCall.pdb

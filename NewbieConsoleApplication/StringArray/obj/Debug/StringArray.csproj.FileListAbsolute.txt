@@ -1,0 +1,7 @@
+C:\Users\Markus\source\repos\NewbieConsoleApplication\StringArray\bin\Debug\StringArray.exe.config
+C:\Users\Markus\source\repos\NewbieConsoleApplication\StringArray\bin\Debug\StringArray.exe
+C:\Users\Markus\source\repos\NewbieConsoleApplication\StringArray\bin\Debug\StringArray.pdb
+C:\Users\Markus\source\repos\NewbieConsoleApplication\StringArray\obj\Debug\StringArray.csprojAssemblyReference.cache
+C:\Users\Markus\source\repos\NewbieConsoleApplication\StringArray\obj\Debug\StringArray.csproj.CoreCompileInputs.cache
+C:\Users\Markus\source\repos\NewbieConsoleApplication\StringArray\obj\Debug\StringArray.exe
+C:\Users\Markus\source\repos\NewbieConsoleApplication\StringArray\obj\Debug\StringArray.pdb
